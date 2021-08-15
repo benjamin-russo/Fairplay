@@ -1,6 +1,6 @@
 # Fairplay
 
-![logo fairplay](C:\Users\russo\Desktop\logo.png)
+![logo fairplay](logo.png)
 
 ## Naissance du projet
 
@@ -34,7 +34,7 @@ Node.js, Express, Sequelize, PostgreSQL, Express-JWT, Cookie-parser, Day.js, Cor
 
 ## Charte graphique
 
-![charte graphique de fairplay](charte graphique.png)
+![charte graphique de fairplay](charte-graphique.png)
 
 ## Rôles utilisateurs de l’application
 
